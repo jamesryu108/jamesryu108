@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/33236626?v=4" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm James, an iOS Developer with 2 years of professional experience. I am based in Toronto, Ontario. I also develop my portfolio on the side.</div>  
   
 
