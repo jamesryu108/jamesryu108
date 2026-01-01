@@ -1,4 +1,4 @@
-### <div align="center">I'm James, an Intermediate iOS Developer with three years of professional experience. I am based in Toronto, Ontario. I also develop my portfolio on the side.</div>  
+### <div align="center">I'm James. I am an Intermediate iOS Developer with Scotiabank and I have three years of experience as an iOS Developer. I am based in Toronto, Ontario. I also develop my portfolio on the side.</div>  
   
 
 - ⚽ I'm currently developing PitchGraph, an extensive FM24 database app, set to launch soon. It's a SwiftUI-UIKit hybrid app.  
